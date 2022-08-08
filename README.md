@@ -20,8 +20,9 @@
 ### Below is the T Test performed for Lot 1. The p-value for Lot 1 is 1 which is not low enough to reject the null hypothesis.
 ![deliverable3lot1.png](images/deliverable3lot1.png)
 ### Below is the T Test performed for Lot 2. Our p-level of 0.6072 is not low enough to reject the null hypothesis.
-![deliverable3lot2.png](images/deliverable3lot2.png
+![deliverable3lot2.png](images/deliverable3lot2.png)
 ### Below is the T Test performed for Lot 3. Our p-level of 0.0417 is low enough to reject the null hypothesis and therefore we can conclude that the PSI across Lot 3 is statistically different from the population mean. Lot 3 may need to be evaluated further. 
+![deliverable3lot3.png](images/deliverable3lot3.png)
 ## Study Design: MechaCar vs. Competition
 ### In order to perform a study to compare the performance of MechaCar automobiles versus its competition, we should consider metrics such as cost, fuel efficiency, car color, safety rating, maintenance cost, or horsepower. 
 * Metrics to test would be safety rating which would cater to the consumer's needs.
